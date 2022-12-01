@@ -42,11 +42,13 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsabarinath02&show_icons=true&locale=en&layout=compact&&theme=dark&background=000000" alt="gsabarinath02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsabarinath02&show_icons=true&locale=en&layout=compact&&theme=radical&background=000000" alt="gsabarinath02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsabarinath02&show_icons=true&locale=en&&theme=dark&background=000000" alt="gsabarinath02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsabarinath02&show_icons=true&locale=en&&theme=radical&background=000000" alt="gsabarinath02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsabarinath02&theme=dark&background=000000" alt="gsabarinath02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsabarinath02&theme=radical&background=000000" alt="gsabarinath02" /></p>
+   
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsabarinath02&theme=dark&background=000000" alt="gsabarinath02" /></a> </p> -->
    

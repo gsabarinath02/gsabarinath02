@@ -50,6 +50,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsabarinath02&theme=dark&background=000000" alt="gsabarinath02" /></a> </p> -->
    
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-gsabarinath02&theme=dark&background=000000)](https://git.io/streak-stats)
+ -->
 ![snake gif](https://github.com/gsabarinath02/gsabarinath02/blob/output/github-contribution-grid-snake.gif)

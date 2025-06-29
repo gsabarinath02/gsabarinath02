@@ -36,7 +36,6 @@
 
 - 🎓 **Data Scientist at [24]7.ai** | Building intelligent systems to enhance decision-making.
 - 🚀 Exploring **cutting-edge generative AI models** and creating solutions that bridge the gap between technology and real-world impact.
-- 🌟 Founder of **Veloscope**, a startup revolutionizing marathon experiences in India.
 - 🌱 Always learning: Recently diving into **LLMs, Reinforcement Learning, and Generative AI**.
 - 💡 Ask me about **AI, Data Science, and Speech Processing, GenAI**.
 - 🎯 Future goals: Contributing to meaningful AI advancements while preparing for my Master's in Data Science (2026).

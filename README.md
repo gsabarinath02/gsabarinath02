@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm G. Sabarinath
 
-<h3 align="center">Building impactful AI, Data Science, and Software Solutions 🚀</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Building+impactful+AI+solutions;Data+Science+Enthusiast;Generative+AI+Explorer;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" alt="Welcome banner" width="100%">
@@ -22,6 +24,14 @@
   </a>
 </div>
 
+## 🎯 Current Status
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-IST%20(%2B5:30)-orange?style=for-the-badge" alt="Timezone" />
+</div>
+
 ## 🌟 About Me
 
 - 🎓 **Data Scientist at [24]7.ai** | Building intelligent systems to enhance decision-making.
@@ -32,6 +42,45 @@
 - 🎯 Future goals: Contributing to meaningful AI advancements while preparing for my Master's in Data Science (2026).
 - 🎨 Fun fact: I enjoy creating data-driven art and exploring the intersection of AI and creativity.
 - 🏃‍♂️ Passionate chess player and tech enthusiast always looking to combine my hobbies with my work!
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### Frameworks & Libraries
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</div>
+
+### Tools & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
+
+## 📊 Skills Progress
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Data%20Science-85%25-FF6B6B?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-80%25-FFD93D?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
 
 ---
 
@@ -71,6 +120,19 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/gsabarinath02/veloscope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsabarinath02&repo=veloscope&theme=radical" alt="Veloscope" />
+  </a>
+  <a href="https://github.com/gsabarinath02/ai-ml-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsabarinath02&repo=ai-ml-projects&theme=radical" alt="AI/ML Projects" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,6 +165,23 @@
 
 ---
 
+## 🎮 Fun Facts
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Chess%20Rating-1500%2B-blue?style=for-the-badge" alt="Chess Rating" />
+  <img src="https://img.shields.io/badge/Marathons%20Completed-5%2B-green?style=for-the-badge" alt="Marathons" />
+  <img src="https://img.shields.io/badge/AI%20Models%20Trained-20%2B-orange?style=for-the-badge" alt="AI Models" />
+  <img src="https://img.shields.io/badge/Coffee%20Cups%20Per%20Day-5%2B-brown?style=for-the-badge" alt="Coffee" />
+</div>
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://github.com/gsabarinath02/gsabarinath02/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
@@ -112,4 +191,12 @@
 <div align="center">
   <h3>Thanks for visiting! 🚀</h3>
   <p>Feel free to reach out if you'd like to collaborate on AI/ML projects!</p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Let's%20Connect!-Join%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Let's Connect" />
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Profile%20Views-Thanks%20for%20visiting!-brightgreen?style=for-the-badge" alt="Profile Views" />
+  </div>
 </div>
